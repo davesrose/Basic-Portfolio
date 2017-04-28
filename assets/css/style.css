@@ -117,6 +117,9 @@ body {
 .contact input {
 	width: 510px;
 }
+.contact textarea {
+	width: 510px;
+}
 .contact p {
 	padding: 0px;
 	margin: 12px 0px -10px 0px;
