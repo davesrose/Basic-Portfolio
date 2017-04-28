@@ -181,3 +181,9 @@ footer p {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	color: #CCC;
 }
+#picture {
+	background-image: url("../../assets/images/portrait.jpg");
+	background-size: 100% 100%;
+	width: 250px;
+	height: 180px;
+}
